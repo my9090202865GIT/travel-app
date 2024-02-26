@@ -5,7 +5,6 @@ import { Provider } from 'react-redux';
 import { store } from './redux/store';
 import LoginModal from './pages/Login';
 import { useEffect } from 'react';
-import Bangkok1 from '../public/Bangkok1.jpg'
 import Home from './pages/Home';
 
 const App: React.FC = () => {
@@ -14,9 +13,10 @@ const App: React.FC = () => {
     <Provider store={store}>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home />} />
-          {/* <Route path="/" element={<LoginModal />} /> */}
-
+          <Route path='/' element={<ProtectedRoute />} >
+            <Route path="/" element={<Home />} />
+          </Route>
+          <Route path="/login" element={<LoginModal />} />
         </Routes>
       </BrowserRouter>
     </Provider>
