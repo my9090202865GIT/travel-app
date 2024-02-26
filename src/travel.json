@@ -1,0 +1,123 @@
+[
+    {
+        "loc": "agra",
+        "pic": {
+            "pic1": "agra1.jpg",
+            "pic2": "agra2.jpg",
+            "pic3": "agra3.jpg",
+            "pic4": "agra4.jpg",
+            "pic5": "agra5.jpg"
+        }
+    },
+    {
+        "loc": "kerala",
+        "pic": {
+            "pic1": "kerala1.jpg",
+            "pic2": "kerala2.jpg",
+            "pic3": "kerala3.jpg",
+            "pic4": "kerala4.jpg",
+            "pic5": "kerala5.jpg"
+        }
+    },
+    {
+        "loc": "Ladakh",
+        "pic": {
+            "pic1": "Ladak1.jpg",
+            "pic2": "Ladak2.jpg",
+            "pic3": "Ladak3.jpg",
+            "pic4": "Ladak4.jpg",
+            "pic5": "Ladak5.jpg"
+        }
+    },
+    {
+        "loc": "rajasthan",
+        "pic": {
+            "pic1": "rajasthan1.jpg",
+            "pic2": "rajasthan2.jpg",
+            "pic3": "rajasthan3.jpg",
+            "pic4": "rajasthan4.jpg",
+            "pic5": "rajasthan5.jpg",
+            "pic6": "rajasthan6.jpg"
+        }
+    },
+    {
+        "loc": "Kolkata",
+        "pic": {
+            "pic1": "Kolkata1.jpg",
+            "pic2": "Kolkata2.jpg",
+            "pic3": "Kolkata3.jpg",
+            "pic4": "Kolkata4.jpg",
+            "pic5": "Kolkata5.jpg"
+        }
+    },
+    {
+        "loc": "puri",
+        "pic": {
+            "pic1": "puri1.jpg",
+            "pic2": "puri2.jpg",
+            "pic3": "puri3.jpg",
+            "pic4": "puri4.jpg"
+        }
+    },
+    {
+        "loc": "goa",
+        "pic": {
+            "pic1": "goa1.jpg",
+            "pic2": "goa2.jpg",
+            "pic3": "goa3.jpg",
+            "pic4": "goa4.jpg",
+            "pic5": "goa5.jpg",
+            "pic6": "goa6.jpg"
+        }
+    },
+    {
+        "loc": "Phuket",
+        "pic": {
+            "pic1": "Phuket1.jpg",
+            "pic2": "Phuket2.jpg",
+            "pic3": "Phuket3.jpg",
+            "pic4": "Phuket4.jpg",
+            "pic5": "Phuket5.jpg"
+        }
+    },
+    {
+        "loc": "Bangkok",
+        "pic": {
+            "pic1": "Bangkok1.jpg",
+            "pic2": "Bangkok2.jpg",
+            "pic3": "Bangkok3.jpg",
+            "pic4": "Bangkok4.jpg",
+            "pic5": "Bangkok5.jpg"
+        }
+    },
+    {
+        "loc": "bali",
+        "pic": {
+            "pic1": "bali1.jpg",
+            "pic2": "bali2.jpg",
+            "pic3": "bali3.jpg",
+            "pic4": "bali4.jpg",
+            "pic5": "bali5.jpg"
+        }
+    },
+    {
+        "loc": "Gokarna",
+        "pic": {
+            "pic1": "Gokarna1.jpg",
+            "pic2": "Gokarna2.jpg",
+            "pic3": "Gokarna3.jpg",
+            "pic4": "Gokarna4.jpg",
+            "pic5": "Gokarna5.jpg"
+        }
+    },
+    {
+        "loc": "Kashmir",
+        "pic": {
+            "pic1": "Kashmir1.jpg",
+            "pic2": "Kashmir2.jpg",
+            "pic3": "Kashmir3.jpg",
+            "pic4": "Kashmir4.jpg",
+            "pic5": "Kashmir5.jpg"
+        }
+    }
+]
