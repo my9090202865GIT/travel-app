@@ -112,12 +112,6 @@ const Signup = ({ closehandler }: Props) => {
                             Sign up
                         </button>
                     </div>
-                    {/* <div className="text-sm text-center text-gray-500">
-                        Already have an account?{" "}
-                        <Link to="/login" className="text-indigo-600 hover:text-indigo-700">
-                            Log in
-                        </Link>
-                    </div> */}
                 </form>
             </div>
         </div>
